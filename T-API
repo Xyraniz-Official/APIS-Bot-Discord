@@ -1,0 +1,72 @@
+{
+ "base": "https://api.miduwu.ga",
+ "server": "https://discord.com/invite/3pT2WHG9EG",
+ "endpoints": {
+  "JSON": [
+   "/json/8ball",
+   "/json/ascii",
+   "/json/binary",
+   "/json/coinflip",
+   "/json/define",
+   "/json/discorduser",
+   "/json/gis",
+   "/json/github",
+   "/json/hastebin",
+   "/json/minecraft",
+   "/json/npm",
+   "/json/owoify",
+   "/json/repository",
+   "/json/reverse",
+   "/json/time",
+   "/json/topgg",
+   "/json/translate",
+   "/json/weather"
+  ],
+  "BUFFER": [
+   "/image/bart",
+   "/image/beautiful",
+   "/image/blur",
+   "/image/boost",
+   "/image/circle",
+   "/image/clash",
+   "/image/color",
+   "/image/communism",
+   "/image/deepfry",
+   "/image/delete",
+   "/image/discordjs",
+   "/image/eject",
+   "/image/gay",
+   "/image/gray",
+   "/image/hollywood",
+   "/image/invert",
+   "/image/mad",
+   "/image/magik",
+   "/image/mexico",
+   "/image/overlay",
+   "/image/pixel",
+   "/image/rankcard",
+   "/image/rip",
+   "/image/santa",
+   "/image/ship",
+   "/image/shit",
+   "/image/simp",
+   "/image/sonic",
+   "/image/spotify",
+   "/image/supreme",
+   "/image/sus",
+   "/image/tweet",
+   "/image/walletcard",
+   "/image/wanted",
+   "/image/welcomecard",
+   "/image/whoreallyare"
+  ]
+ },
+ "stats": {
+  "routes": {
+   "JSON": 18,
+   "BUFFER": 36,
+   "TOTAL": 60
+  },
+  "node": "v16.17.1"
+ }
+}
