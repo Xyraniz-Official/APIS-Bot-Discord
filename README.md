@@ -1,2 +1,2 @@
 # Apis-Discord
-Generare un par de apis por si necesitas apis.
+#Apis FlameVT está Github fue hecha para almacenar apis para los desarrolladores de bots.
